@@ -32,6 +32,6 @@ Successfully morphed NACA 0012 airfoil toward target design:
 ## Repository Structure
 - main_code.m # Main algorithm
 - targetCp.csv # Target pressure distribution
-- A0012Big_AoA2.dat # Baseline airfoil
+- Naca0012_CorrectedFormat.dat # Baseline airfoil
 - xfoil_input.txt # XFOIL configuration
 - airfoil_final.dat # Optimized airfoil (output)
