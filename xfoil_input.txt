@@ -1,0 +1,7 @@
+load airfoil_iteration.dat
+oper
+iter 200
+alfa 2.00
+cpwr cp_alfa_aoa2.txt
+
+quit
